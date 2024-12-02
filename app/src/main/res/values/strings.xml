@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_text">Google officially announced its much-anticipated Pixel phones; the Pixel and Pixel XL, on October 4. We attended Google’s London UK event, mirroring the main one taking place in San Francisco, US, where the firm unwrapped the new Android 7.1 Nougat devices which will apparently usurp Google’s long-standing Nexus series.</string>
+    <string name="content_specs_display">5.0 inches\n
+        FHD AMOLED at 441ppi\n
+        2.5D Corning® Gorilla® Glass 4</string>
+    <string name="content_specs_size">5.6 x 2.7 x 0.2 ~ 0.3 inches 143.8 x 69.5 x 7.3 ~ 8.5 mm</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="title">Google Pixel</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Dani Faturachman Sidik</string>
+    <string name="buy">Beli</string>
+    <string name="shopee">Belanja di Shopee</string>
+    <string name="dummy_value">Rp. 35.000.000</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="foto_hp">foto_hp</string>
+    <string name="nama_toko">SpaceFont</string>
+    <string name="model">Model Handphone</string>
+    <string name="nama_handphone">Nama Handphone</string>
+    <string name="version">Versi 1.0</string>
+    <string name="nama_store">Space Phone Store</string>
+
+    <string-array name="data_name">
+        <item>Iphone XR</item>
+        <item>Iphone 11</item>
+        <item>Iphone 12</item>
+        <item>Iphone 13</item>
+        <item>Iphone 14</item>
+        <item>Iphone 15</item>
+        <item>Iphone 16</item>
+        <item>Ipad 11 Pro</item>
+        <item>Ipad 9 </item>
+        <item>Ipad Air</item>
+        <item>Macbook Pro 2012 </item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>iPhone XR, yang diluncurkan oleh Apple pada Oktober 2018, adalah smartphone dengan layar Liquid Retina HD berukuran 6,1 inci dan desain elegan dalam berbagai pilihan warna. Ditenagai oleh chip A12 Bionic, iPhone XR menawarkan performa cepat dan efisien, serta mendukung teknologi augmented reality.</item>
+        <item>iPhone 11, diluncurkan oleh Apple pada September 2019, adalah smartphone dengan layar Liquid Retina HD berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A13 Bionic, iPhone 11 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih.</item>
+        <item>iPhone 12, diluncurkan oleh Apple pada Oktober 2020, adalah smartphone dengan layar Super Retina XDR OLED berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A14 Bionic, iPhone 12 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih.</item>
+        <item>iPhone 13, diluncurkan oleh Apple pada September 2021, adalah smartphone dengan layar Super Retina XDR OLED berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A15 Bionic, iPhone 13 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih.</item>
+        <item>iPhone 14, diluncurkan oleh Apple pada September 2022, adalah smartphone dengan layar Super Retina XDR OLED berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A16 Bionic, iPhone 14 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih.</item>
+        <item>iPhone 15, diluncurkan oleh Apple pada September 2023, adalah smartphone dengan layar Super Retina XDR OLED berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A17 Bionic, iPhone 15 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih.</item>
+        <item>iPhone 16, diluncurkan oleh Apple pada September 2024, adalah smartphone dengan layar Super Retina XDR OLED berukuran 6,1 inci dan desain premium dalam berbagai pilihan warna. Ditenagai oleh chip A18 Bionic, iPhone 16 menawarkan kinerja yang lebih cepat dan efisien, serta mendukung teknologi augmented reality yang lebih canggih1. Dengan kamera belakang dual 48 MP dan kamera depan 12 MP, pengguna dapat menikmati foto dan video berkualitas tinggi, sementara fitur Face ID memastikan keamanan yang praktis.</item>
+        <item>iPad Pro 11, diluncurkan oleh Apple pada Mei 2021, adalah tablet dengan layar Liquid Retina IPS LCD berukuran 11 inci dan desain premium dalam warna Silver dan Space Gray.</item>
+        <item>iPad 9, diluncurkan oleh Apple pada September 2021, adalah tablet dengan layar Retina IPS LCD berukuran 10,2 inci dan desain yang mirip dengan generasi sebelumnya. Ditenagai oleh chip Apple A13 Bionic, iPad 9 menawarkan kinerja yang cukup cepat dan efisien untuk kebutuhan sehari-hari.</item>
+        <item>iPad Air, yang diluncurkan oleh Apple pada September 2020, adalah tablet dengan layar Liquid Retina IPS LCD berukuran 10,9 inci dan desain premium dalam warna Silver dan Space Gray. Ditenagai oleh chip Apple A14 Bionic, iPad Air menawarkan kinerja yang sangat cepat dan efisien, serta mendukung berbagai aplikasi berat dan teknologi augmented reality.</item>
+        <item>MacBook Pro 2012, yang diluncurkan pada Juni 2012, tersedia dalam dua ukuran: 13 inci dan 15 inci. Kedua varian ini menampilkan desain unibody aluminium yang elegan, dengan layar LED-backlit yang menawarkan pengalaman visual yang memukau. Ditenagai oleh prosesor Intel Core i5 atau i7 dan memori hingga 8GB, MacBook Pro 2012 menawarkan kinerja yang kuat dan efisien untuk kebutuhan sehari-hari. Dengan berbagai opsi penyimpanan, mulai dari HDD hingga SSD, dan beragam port termasuk USB 3.0, Thunderbolt, dan SDXC card slot, laptop ini sangat fleksibel untuk berbagai penggunaan.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/ipxr</item>
+        <item>@drawable/ip11</item>
+        <item>@drawable/ip12</item>
+        <item>@drawable/ip13</item>
+        <item>@drawable/ip14</item>
+        <item>@drawable/ip15</item>
+        <item>@drawable/ip16</item>
+        <item>@drawable/ipad11pro</item>
+        <item>@drawable/ipad9</item>
+        <item>@drawable/ipadair</item>
+        <item>@drawable/macbookpro2012</item>
+    </integer-array>
+
+</resources>
